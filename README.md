@@ -14,9 +14,8 @@ Here's a high-level overview of the Nextflow retrobiosynthesis workflow:
 [Emre Taha Çevik](https://github.com/bogrum), [Gülce Çelen](https://github.com/GulceC), [Nilay Yönet](https://github.com/niraito), [Kübra Narcı](https://github.com/kubranarci)
 
  
-**Project Website:** [http://url.for.overall.project.website/](https://github.com/niraito/Nextflow_Retrobiosynthesis)
 
-**Source Code:** [https://github.com/projectname/](https://github.com/niraito/Nextflow_Retrobiosynthesis)
+**Source Code:** [https://github.com/niraito/Nextflow_Retrobiosynthesis](https://github.com/niraito/Nextflow_Retrobiosynthesis)
 
 **License:** [Apache 2.0 license](https://www.apache.org/licenses/LICENSE-2.0)
 
