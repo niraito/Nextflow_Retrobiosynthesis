@@ -1,0 +1,13 @@
+# environments/rptools.yml
+name: rptools_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9 # Nextflow araçlarının çoğu Python tabanlıdır
+  - rptools # Ana paket
+  - rrparser 
+  - openjdk # Bazı Java tabanlı bağımlılıklar için faydalı olabilir
+  # Eğer belirli bir rptools sürümüne ihtiyacınız varsa:
+  # - rptools=X.Y.Z

@@ -1,0 +1,11 @@
+# environments/rp2paths.yml
+name: rp2paths_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - rp2paths # RP2paths için Conda paketi
+  # Eğer belirli bir rp2paths sürümüne ihtiyacınız varsa:
+  # - rp2paths=X.Y.Z

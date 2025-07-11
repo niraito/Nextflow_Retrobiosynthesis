@@ -1,0 +1,11 @@
+# environments/retropath2-wrapper.yml
+name: retropath2_wrapper_env
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.9
+  - retropath2-wrapper # RetroPath2.0 için Conda paketi
+  # Eğer belirli bir retropath2-wrapper sürümüne ihtiyacınız varsa:
+  # - retropath2-wrapper=X.Y.Z
