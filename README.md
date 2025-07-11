@@ -2,6 +2,13 @@
 
 This project is submitted to ISMB-ECCB 2025.
 
+### Workflow Diagram
+
+Here's a high-level overview of the Nextflow retrobiosynthesis workflow:
+
+![Retrobiosynthesis Workflow Diagram](data/pipeline_diagram/retrobiosynthesis_workflow.png)
+
+
 ## Go with the (Next)flow: Retrobiosynthesis
 
 [Emre Taha Çevik](https://github.com/bogrum), [Gülce Çelen](https://github.com/GulceC), [Nilay Yönet](https://github.com/niraito), [Kübra Narcı](https://github.com/kubranarci)
